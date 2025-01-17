@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kithuatlaptrinh\\baitapktlt\\TimViTriPSGanXNhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4BA9DD-E389-4D4D-92A0-90E20EF995FB}|TimViTriPSGanXNhat\\TimViTriPSGanXNhat.vcxproj|E:\\kithuatlaptrinh\\baitapktlt\\TimViTriPSGanXNhat\\TimViTriPSGanXNhat\\TimViTriPSGanXNhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA4BA9DD-E389-4D4D-92A0-90E20EF995FB}|TimViTriPSGanXNhat\\TimViTriPSGanXNhat.vcxproj|solutionrelative:TimViTriPSGanXNhat\\TimViTriPSGanXNhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimViTriPSGanXNhat.cpp",
+              "DocumentMoniker": "E:\\kithuatlaptrinh\\baitapktlt\\TimViTriPSGanXNhat\\TimViTriPSGanXNhat\\TimViTriPSGanXNhat.cpp",
+              "RelativeDocumentMoniker": "TimViTriPSGanXNhat\\TimViTriPSGanXNhat.cpp",
+              "ToolTip": "E:\\kithuatlaptrinh\\baitapktlt\\TimViTriPSGanXNhat\\TimViTriPSGanXNhat\\TimViTriPSGanXNhat.cpp*",
+              "RelativeToolTip": "TimViTriPSGanXNhat\\TimViTriPSGanXNhat.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T07:34:26.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
