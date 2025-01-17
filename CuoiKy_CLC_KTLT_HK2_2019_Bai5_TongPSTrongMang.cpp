@@ -1,4 +1,5 @@
 #include<iostream>
+#include<algorithm>
 using namespace std;
 struct PHANSO
 {
@@ -29,11 +30,7 @@ void rutgon1PS(PHANSO &a) {
 	int x = max(a.tu, a.mau);
 	int y = min(a.tu, a.mau);
 	int w = 0;
-	for (int i = 1; i <= x; i++) {
-		if (y % i == 0 && x % i == 0) {
-			w = i;
-		}
-	}
+	w = __gcd(x,y);
 	a.tu /= w;
 	a.mau /= w;
 }
