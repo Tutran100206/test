@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kithuatlaptrinh\\baitapktlt\\sapxep2mangtangdanTwopointers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60866E2E-AC4E-4B6E-8335-200F0F63AA5A}|sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.vcxproj|E:\\kithuatlaptrinh\\baitapktlt\\sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60866E2E-AC4E-4B6E-8335-200F0F63AA5A}|sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.vcxproj|solutionrelative:sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sapxep2mangtangdanTwopointers.cpp",
+              "DocumentMoniker": "E:\\kithuatlaptrinh\\baitapktlt\\sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.cpp",
+              "RelativeDocumentMoniker": "sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.cpp",
+              "ToolTip": "E:\\kithuatlaptrinh\\baitapktlt\\sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.cpp*",
+              "RelativeToolTip": "sapxep2mangtangdanTwopointers\\sapxep2mangtangdanTwopointers.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T11:59:03.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
